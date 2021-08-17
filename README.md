@@ -15,6 +15,10 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 - https://github.com/RenYurui/PIRender
 
+## Toward Spatially Unbiased Generative Models
+
+- https://github.com/jychoi118/toward_spatial_unbiased
+
 # 2.Image Manipulation/Image Editing
 
 ## EigenGAN: Layer-Wise Eigen-Learning for GANs
@@ -46,6 +50,12 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## ALADIN: All Layer Adaptive Instance Normalization for Fine-grained Style Similarity
 
 - https://arxiv.org/abs/2103.09776
+
+## Domain Aware Universal Style Transfer
+
+- https://arxiv.org/abs/2108.04441
+
+- https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer
 
 # 4.Image to Image Translation
 
