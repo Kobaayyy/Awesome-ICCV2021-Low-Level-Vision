@@ -57,6 +57,11 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 - Code：https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer
 
+## AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer
+- Paper：https://arxiv.org/abs/2108.03647
+
+- Code：https://github.com/Huage001/AdaAttN
+
 # 4.Image to Image Translation
 
 # 5.Image Completion/Image Inpaiting
@@ -105,8 +110,10 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 - Code：https://github.com/csbhr/Deep-Blind-VSR
 
 ## Omniscient Video Super-Resolution
-
 - Code：https://github.com/psychopa4/OVSR
+## Learning A Single Network for Scale-Arbitrary Super-Resolution
+- Paper：https://arxiv.org/abs/2004.03791
+- Code：https://github.com/LongguangWang/ArbSR
 
 ## IICNet: A Generic Framework for Reversible Image Conversion
 
@@ -119,6 +126,9 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## Internal Video Inpainting by Implicit Long-range Propagation
 
 - Code：https://github.com/Tengfei-Wang/Annotated-4K-Videos
+
+## Occlusion-Aware Video Object Inpainting
+- Paper：https://arxiv.org/abs/2108.06765
 
 ## Self-Conditioned Probabilistic Learning of Video Rescaling
 
@@ -134,6 +144,18 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 - Code：https://github.com/shangwei5/D2Net
 
+## Rethinking Coarse-to-Fine Approach in Single Image Deblurring
+- Paper：https://arxiv.org/abs/2108.05054
+- Code：https://github.com/chosj95/MIMO-UNet
+
 ## Gap-closing Matters: Perceptual Quality Assessment and Optimization of Low-Light Image Enhancement
 
 - Code：https://github.com/Baoliang93/Gap-closing-Matters
+
+## SSH: A Self-Supervised Framework for Image Harmonization
+
+- Paper：https://arxiv.org/abs/2108.06805
+- Code：https://github.com/VITA-Group/SSHarmonization
+
+## MUSIQ: Multi-scale Image Quality Transformer
+- Paper：https://arxiv.org/abs/2108.05997
