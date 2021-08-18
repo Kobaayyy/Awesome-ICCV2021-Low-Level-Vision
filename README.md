@@ -67,14 +67,41 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 - Paper：https://arxiv.org/abs/2103.16219
 
 - Code：https://github.com/NetEase-GameAI/SPatchGAN
-# 5.Image Completion/Image Inpaiting
+# 5.Image Inpaiting/Image Completion
+## Implicit Internal Video Inpainting
+
+- Code：https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting
+
+## Internal Video Inpainting by Implicit Long-range Propagation
+
+- Code：https://github.com/Tengfei-Wang/Annotated-4K-Videos
+
+## Occlusion-Aware Video Object Inpainting
+- Paper：https://arxiv.org/abs/2108.06765
 
 ## High-Fidelity Pluralistic Image Completion with Transformers
 
 - Paper：https://arxiv.org/abs/2103.14031
 - Code：https://github.com/raywzy/ICT
+# 6.Image Super-Resolution
+## Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution
 
-# 6.Other Low Level Vision
+- Code：https://github.com/JingyunLiang/MANet
+
+## Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling
+
+- Code：https://github.com/JingyunLiang/HCFlow
+
+## Deep Blind Video Super-resolution
+
+- Code：https://github.com/csbhr/Deep-Blind-VSR
+
+## Omniscient Video Super-Resolution
+- Code：https://github.com/psychopa4/OVSR
+## Learning A Single Network for Scale-Arbitrary Super-Resolution
+- Paper：https://arxiv.org/abs/2004.03791
+- Code：https://github.com/LongguangWang/ArbSR
+# 7.Other Low Level Vision
 
 ## **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
 
@@ -100,38 +127,12 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 - Code：ttps://github.com/Joyies/SPDNet
 
-## Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution
 
-- Code：https://github.com/JingyunLiang/MANet
-
-## Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling
-
-- Code：https://github.com/JingyunLiang/HCFlow
-
-## Deep Blind Video Super-resolution
-
-- Code：https://github.com/csbhr/Deep-Blind-VSR
-
-## Omniscient Video Super-Resolution
-- Code：https://github.com/psychopa4/OVSR
-## Learning A Single Network for Scale-Arbitrary Super-Resolution
-- Paper：https://arxiv.org/abs/2004.03791
-- Code：https://github.com/LongguangWang/ArbSR
 
 ## IICNet: A Generic Framework for Reversible Image Conversion
 
 - Code：https://github.com/felixcheng97/IICNet
 
-## Implicit Internal Video Inpainting
-
-- Code：https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting
-
-## Internal Video Inpainting by Implicit Long-range Propagation
-
-- Code：https://github.com/Tengfei-Wang/Annotated-4K-Videos
-
-## Occlusion-Aware Video Object Inpainting
-- Paper：https://arxiv.org/abs/2108.06765
 
 ## Self-Conditioned Probabilistic Learning of Video Rescaling
 
