@@ -63,7 +63,10 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 - Code：https://github.com/Huage001/AdaAttN
 
 # 4.Image to Image Translation
+## SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation
+- Paper：https://arxiv.org/abs/2103.16219
 
+- Code：https://github.com/NetEase-GameAI/SPatchGAN
 # 5.Image Completion/Image Inpaiting
 
 ## High-Fidelity Pluralistic Image Completion with Transformers
