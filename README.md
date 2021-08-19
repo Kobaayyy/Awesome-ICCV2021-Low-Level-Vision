@@ -44,6 +44,9 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 - Paper：https://arxiv.org/abs/2108.02774
 - Code：https://github.com/PeterWang512/GANSketching
+## A Latent Transformer for Disentangled Face Editing in Images and Videos
+- Paper：https://arxiv.org/abs/2106.11895
+- Code：https://github.com/InterDigitalInc/Latent-Transformer
 
 # 3.Image Transfer
 
