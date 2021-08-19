@@ -23,6 +23,14 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 - Paper：https://arxiv.org/abs/2108.02874
 - Code：https://github.com/clovaai/mxfont
 
+## Handwriting Transformers
+- Paper：https://arxiv.org/abs/2104.03964
+- Code：https://github.com/ankanbhunia/Handwriting-Transformers
+
+## Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation
+- Paper：https://arxiv.org/abs/2103.16146
+
+
 # 2.Image Manipulation/Image Editing
 
 ## EigenGAN: Layer-Wise Eigen-Learning for GANs
@@ -176,3 +184,6 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 ## MUSIQ: Multi-scale Image Quality Transformer
 - Paper：https://arxiv.org/abs/2108.05997
+
+## Extending Neural P-frame Codecs for B-frame Coding
+- Paper：https://arxiv.org/abs/2104.00531
