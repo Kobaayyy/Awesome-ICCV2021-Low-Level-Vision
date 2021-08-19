@@ -19,6 +19,10 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 - Code：https://github.com/jychoi118/toward_spatial_unbiased
 
+## Disentangled Lifespan Face Synthesis
+- Paper：https://arxiv.org/abs/2108.02874
+- Code：https://github.com/clovaai/mxfont
+
 # 2.Image Manipulation/Image Editing
 
 ## EigenGAN: Layer-Wise Eigen-Learning for GANs
@@ -47,6 +51,10 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## A Latent Transformer for Disentangled Face Editing in Images and Videos
 - Paper：https://arxiv.org/abs/2106.11895
 - Code：https://github.com/InterDigitalInc/Latent-Transformer
+
+## Learning Facial Representations from the Cycle-consistency of Face
+- Paper：https://arxiv.org/abs/2108.03427
+- Code：https://github.com/jiarenchang/facecycle
 
 # 3.Image Transfer
 
@@ -104,6 +112,8 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## Learning A Single Network for Scale-Arbitrary Super-Resolution
 - Paper：https://arxiv.org/abs/2004.03791
 - Code：https://github.com/LongguangWang/ArbSR
+## Deep Reparametrization of Multi-Frame Super-Resolution and Denoising
+- Paper：https://arxiv.org/abs/2108.08286
 # 7.Other Low Level Vision
 
 ## **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
