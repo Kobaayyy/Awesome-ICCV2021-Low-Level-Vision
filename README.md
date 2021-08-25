@@ -102,6 +102,10 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 - Paper：https://arxiv.org/abs/2103.14031
 - Code：https://github.com/raywzy/ICT
+
+## Image Inpainting via Conditional Texture and Structure Dual Generation
+- Paper：https://arxiv.org/abs/2108.09760v1
+- Code：https://github.com/Xiefan-Guo/CTSDG
 # 6.Image Super-Resolution
 ## Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution
 
