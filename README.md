@@ -30,7 +30,9 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation
 - Paper：https://arxiv.org/abs/2103.16146
 
-
+## ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement
+- Paper：https://arxiv.org/abs/2104.02699
+- Code：https://github.com/yuval-alaluf/restyle-encoder
 # 2.Image Manipulation/Image Editing
 
 ## EigenGAN: Layer-Wise Eigen-Learning for GANs
@@ -126,6 +128,9 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 - Code：https://github.com/LongguangWang/ArbSR
 ## Deep Reparametrization of Multi-Frame Super-Resolution and Denoising
 - Paper：https://arxiv.org/abs/2108.08286
+
+## Lucas-Kanade Reloaded: End-to-End Super-Resolution from Raw Image Bursts
+- Paper：https://arxiv.org/abs/2104.06191
 # 7.Other Low Level Vision
 
 ## **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
