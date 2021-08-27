@@ -33,6 +33,10 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement
 - Paper：https://arxiv.org/abs/2104.02699
 - Code：https://github.com/yuval-alaluf/restyle-encoder
+
+## Paint Transformer: Feed Forward Neural Painting with Stroke Prediction
+- Paper：https://arxiv.org/abs/2108.03798
+- Code：https://github.com/huage001/painttransformer
 # 2.Image Manipulation/Image Editing
 
 ## EigenGAN: Layer-Wise Eigen-Learning for GANs
