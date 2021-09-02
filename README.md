@@ -159,7 +159,7 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 ## Structure-Preserving Deraining with Residue Channel Prior Guidance
 
-- Code：ttps://github.com/Joyies/SPDNet
+- Code：https://github.com/Joyies/SPDNet
 
 
 
