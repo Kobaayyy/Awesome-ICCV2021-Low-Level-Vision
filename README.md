@@ -37,6 +37,9 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## Paint Transformer: Feed Forward Neural Painting with Stroke Prediction
 - Paper：https://arxiv.org/abs/2108.03798
 - Code：https://github.com/huage001/painttransformer
+
+## GAN Inversion for Out-of-Range Images with Geometric Transformations
+- Paper：https://arxiv.org/abs/2108.08998
 # 2.Image Manipulation/Image Editing
 
 ## EigenGAN: Layer-Wise Eigen-Learning for GANs
@@ -147,6 +150,11 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 - Paper：https://arxiv.org/abs/2103.16206
 - Code：https://github.com/JihyongOh/XVFI
 
+## Asymmetric Bilateral Motion Estimation for Video Frame Interpolation
+
+- Paper： https://arxiv.org/abs/2108.06815
+- Code： https://github.com/JunHeum/ABME
+
 ## Focal Frequency Loss for Image Reconstruction and Synthesis
 
 - Paper：https://arxiv.org/abs/2012.12821
@@ -200,3 +208,5 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 ## Extending Neural P-frame Codecs for B-frame Coding
 - Paper：https://arxiv.org/abs/2104.00531
+## Towards Vivid and Diverse Image Colorization with Generative Color Prior
+- Paper：https://arxiv.org/abs/2108.08826
