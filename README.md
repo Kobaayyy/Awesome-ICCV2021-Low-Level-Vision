@@ -72,7 +72,9 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 ## Learning Facial Representations from the Cycle-consistency of Face
 - Paper：https://arxiv.org/abs/2108.03427
 - Code：https://github.com/jiarenchang/facecycle
-
+## StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery
+- Paper：https://arxiv.org/abs/2103.17249
+- Code：https://github.com/orpatashnik/StyleCLIP
 # 3.Image Transfer
 
 ## ALADIN: All Layer Adaptive Instance Normalization for Fine-grained Style Similarity
