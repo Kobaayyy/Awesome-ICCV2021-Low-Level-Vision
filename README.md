@@ -71,6 +71,9 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery
 - Paper：https://arxiv.org/abs/2103.17249
 - Code：https://github.com/orpatashnik/StyleCLIP
+## Talk-to-Edit: Fine-Grained Facial Editing via Dialog
+- Paper：https://arxiv.org/abs/2109.04425
+- Code：https://github.com/yumingj/Talk-to-Edit
 
 <a name="3.图像风格迁移"></a>
 # 3.图像风格迁移（Image Transfer）
