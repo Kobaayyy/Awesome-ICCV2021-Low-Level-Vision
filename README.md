@@ -46,6 +46,9 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 - Code：https://github.com/huage001/painttransformer
 ## GAN Inversion for Out-of-Range Images with Geometric Transformations
 - Paper：https://arxiv.org/abs/2108.08998
+## The Animation Transformer: Visual Correspondence via Segment Matching
+- Paper：https://arxiv.org/abs/2109.02614
+- 手绘图变动画
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑（Image Manipulation/Image Editing）
