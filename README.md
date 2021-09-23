@@ -167,3 +167,6 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 - Paper：https://arxiv.org/abs/2104.00531
 ## Towards Vivid and Diverse Image Colorization with Generative Color Prior
 - Paper：https://arxiv.org/abs/2108.08826
+## Towards Flexible Blind JPEG Artifacts Removal 
+- Paper：https://github.com/jiaxi-jiang/FBCNN/releases/download/v1.0/FBCNN_ICCV2021.pdf
+- Code：https://github.com/jiaxi-jiang/FBCNN
