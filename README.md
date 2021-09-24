@@ -3,7 +3,7 @@ A Collection of Papers and Codes for ICCV2021 Low Level Vision and Image Generat
 
 整理汇总下2021年ICCV中图像生成（Image Generation）和底层视觉(Low-Level Vision)任务相关的论文和代码，包括图像生成，图像编辑，图像风格迁移，图像翻译，图像修复，图像超分及其他底层视觉任务。大家如果觉得有帮助，欢迎star~~
 
-**参考或转载请注明出处**
+**参考或转载请注明出处,文中有不足或者需要补充的地方也欢迎PR**
 
 ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 
