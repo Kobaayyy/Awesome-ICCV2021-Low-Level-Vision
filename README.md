@@ -77,6 +77,9 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## Talk-to-Edit: Fine-Grained Facial Editing via Dialog
 - Paper：https://arxiv.org/abs/2109.04425
 - Code：https://github.com/yumingj/Talk-to-Edit
+## Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing
+- Paper：https://cuiaiyu.github.io/dressing-in-order/Cui_Dressing_in_Order.pdf
+- Code：https://github.com/cuiaiyu/dressing-in-order
 
 <a name="3.图像风格迁移"></a>
 # 3.图像风格迁移（Image Transfer）
