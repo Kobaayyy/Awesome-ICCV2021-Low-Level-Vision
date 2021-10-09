@@ -182,3 +182,7 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement
 - Paper：https://arxiv.org/abs/2107.12898
 - Code：https://github.com/IDKiro/StarEnhancer
+## Real-time Image Enhancer via Learnable Spatial-aware 3D Lookup Tables
+- Paper：https://arxiv.org/abs/2108.08697
+## Spatially-Adaptive Image Restoration using Distortion-Guided Networks
+- Paper：https://arxiv.org/abs/2108.08617
