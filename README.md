@@ -49,6 +49,9 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## The Animation Transformer: Visual Correspondence via Segment Matching
 - Paper：https://arxiv.org/abs/2109.02614
 - 手绘图变动画
+## Image Synthesis via Semantic Composition
+- Paper：https://shepnerd.github.io/scg/resources/01145.pdf
+- Code：https://github.com/dvlab-research/SCGAN
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑（Image Manipulation/Image Editing）
@@ -134,6 +137,7 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## Lucas-Kanade Reloaded: End-to-End Super-Resolution from Raw Image Bursts
 - Paper：https://arxiv.org/abs/2104.06191
 
+
 <a name="7.其他底层视觉任务"></a>
 # 7.其他底层视觉任务（Other Low Level Vision）
 ## **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
@@ -160,6 +164,9 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset
 - Paper：https://arxiv.org/abs/2103.14943
 - Code：https://github.com/guanyingc/DeepHDRVideo
+## A New Journey from SDRTV to HDRTV
+- Paper：https://arxiv.org/abs/2108.07978
+- Code：https://github.com/chxy95/HDRTVNet
 ## Bringing Events into Video Deblurring with Non consecutively Blurry Frames
 - Code：https://github.com/shangwei5/D2Net
 ## Rethinking Coarse-to-Fine Approach in Single Image Deblurring
