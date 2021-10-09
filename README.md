@@ -179,3 +179,6 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## Towards Flexible Blind JPEG Artifacts Removal 
 - Paper：https://github.com/jiaxi-jiang/FBCNN/releases/download/v1.0/FBCNN_ICCV2021.pdf
 - Code：https://github.com/jiaxi-jiang/FBCNN
+## StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement
+- Paper：https://arxiv.org/abs/2107.12898
+- Code：https://github.com/IDKiro/StarEnhancer
