@@ -19,15 +19,15 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - [4.图像翻译（Image to Image Translation）](#4.图像翻译)
 - [5.图像修复（Image Inpaiting/Image Completion）](#5.图像修复)
 - [6.图像超分辨率（Image Super-Resolution）](#6.图像超分辨率)
-- [7.图像去雨（Image Deraining）](#2.图像去雨)
-- [8.图像去雾（Image Dehazing）](#3.图像去雾)
-- [9.去模糊（Deblurring）](#4.去模糊)
-- [10.去噪（Denoising）](#5.去噪)
-- [11.图像恢复（Image Restoration）](#6.图像恢复)
-- [12.图像增强（Image Enhancement）](#7.图像增强)
-- [13.图像质量评价（Image Quality Assessment）](#10.图像质量评价)
-- [14.插帧（Frame Interpolation）](#11.插帧)
-- [15.视频/图像压缩（Video/Image Compression）](#12.视频压缩)
+- [7.图像去雨（Image Deraining）](#7.图像去雨)
+- [8.图像去雾（Image Dehazing）](#8.图像去雾)
+- [9.去模糊（Deblurring）](#9.去模糊)
+- [10.去噪（Denoising）](#10.去噪)
+- [11.图像恢复（Image Restoration）](#11.图像恢复)
+- [12.图像增强（Image Enhancement）](#12.图像增强)
+- [13.图像质量评价（Image Quality Assessment）](#13.图像质量评价)
+- [14.插帧（Frame Interpolation）](#14.插帧)
+- [15.视频/图像压缩（Video/Image Compression）](#15.视频压缩)
 - [16.其他底层视觉任务（Other Low Level Vision）](#16.其他底层视觉任务)
 
 
@@ -150,11 +150,18 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Paper：https://arxiv.org/abs/2108.08286
 ## Lucas-Kanade Reloaded: End-to-End Super-Resolution from Raw Image Bursts
 - Paper：https://arxiv.org/abs/2104.06191
+## Attention-Based Multi-Reference Learning for Image Super-Resolution
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Pesavento_Attention-Based_Multi-Reference_Learning_for_Image_Super-Resolution_ICCV_2021_paper.pdf
 
+<a name="7.图像去雨"></a>
 # 7.图像去雨（Image Deraining）
 ## Structure-Preserving Deraining with Residue Channel Prior Guidance
 - Code：https://github.com/Joyies/SPDNet
+
+<a name="8.图像去雾"></a>
 # 8.图像去雾（Image Dehazing）
+
+<a name="9.去模糊"></a>
 # 9.去模糊（Deblurring）
 ## Bringing Events into Video Deblurring with Non consecutively Blurry Frames
 - Code：https://github.com/shangwei5/D2Net
@@ -164,7 +171,12 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Bringing Events into Video Deblurring with Non consecutively Blurry Frames 
 - Code：https://github.com/shangwei5/D2Net
 
+<a name="10.去噪"></a>
 # 10.去噪（Denoising）
+## C2N: Practical Generative Noise Modeling for Real-World Denoising
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.pdf
+
+<a name="11.图像恢复"></a>
 # 11.图像恢复（Image Restoration）
 ## Spatially-Adaptive Image Restoration using Distortion-Guided Networks
 - Paper：https://arxiv.org/abs/2108.08617
@@ -172,15 +184,20 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Paper：https://arxiv.org/abs/2109.06620
 - Code：https://github.com/jianzhangcs/DAGL
 
+<a name="12.图像增强"></a>
 # 12.图像增强（Image Enhancement）
 ## StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement
 - Paper：https://arxiv.org/abs/2107.12898
 - Code：https://github.com/IDKiro/StarEnhancer
 ## Real-time Image Enhancer via Learnable Spatial-aware 3D Lookup Tables
 - Paper：https://arxiv.org/abs/2108.08697
+
+<a name="13.图像质量评价"></a>
 # 13.图像质量评价（Image Quality Assessment）
 ## MUSIQ: Multi-scale Image Quality Transformer
 - Paper：https://arxiv.org/abs/2108.05997
+
+<a name="14.插帧"></a>
 # 14.插帧（Frame Interpolation）
 ## XVFI: eXtreme Video Frame Interpolation
 - Paper：https://arxiv.org/abs/2103.16206
@@ -188,6 +205,8 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Asymmetric Bilateral Motion Estimation for Video Frame Interpolation
 - Paper： https://arxiv.org/abs/2108.06815
 - Code： https://github.com/JunHeum/ABME
+
+<a name="15.视频压缩"></a>
 # 15.视频/图像压缩（Video/Image Compression）
 ## Extending Neural P-frame Codecs for B-frame Coding
 - Paper：https://arxiv.org/abs/2104.00531
@@ -196,7 +215,7 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code：https://github.com/micmic123/QmapCompression
 
 <a name="16.其他底层视觉任务"></a>
-# 7.其他底层视觉任务（Other Low Level Vision）
+# 16.其他底层视觉任务（Other Low Level Vision）
 ## Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation
 - Code：https://github.com/Anonymous-iccv2021-paper3163/CaFM-Pytorch
 - 视频传输
