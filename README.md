@@ -118,6 +118,9 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 ## Image Inpainting via Conditional Texture and Structure Dual Generation
 - Paper：https://arxiv.org/abs/2108.09760v1
 - Code：https://github.com/Xiefan-Guo/CTSDG
+## CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction
+- Paper：https://arxiv.org/abs/2011.12836
+- Code：https://github.com/zengxianyu/crfill
 
 <a name="6.图像超分辨率"></a>
 # 6.图像超分辨率（Image Super-Resolution）
@@ -193,3 +196,8 @@ ICCV2021官网：[https://iccv2021.thecvf.com/](https://iccv2021.thecvf.com/)
 - Paper：https://arxiv.org/abs/2108.08697
 ## Spatially-Adaptive Image Restoration using Distortion-Guided Networks
 - Paper：https://arxiv.org/abs/2108.08617
+## Dynamic Attentive Graph Learning for Image Restoration
+- Paper：https://arxiv.org/abs/2109.06620
+- Code：https://github.com/jianzhangcs/DAGL
+## Bringing Events into Video Deblurring with Non consecutively Blurry Frames 
+- Code：https://github.com/shangwei5/D2Net
