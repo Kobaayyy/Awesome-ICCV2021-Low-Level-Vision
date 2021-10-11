@@ -217,8 +217,6 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## A New Journey from SDRTV to HDRTV
 - Paper：https://arxiv.org/abs/2108.07978
 - Code：https://github.com/chxy95/HDRTVNet
-## Gap-closing Matters: Perceptual Quality Assessment and Optimization of Low-Light Image Enhancement
-- Code：https://github.com/Baoliang93/Gap-closing-Matters
 ## SSH: A Self-Supervised Framework for Image Harmonization
 - Paper：https://arxiv.org/abs/2108.06805
 - Code：https://github.com/VITA-Group/SSHarmonization
