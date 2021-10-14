@@ -65,6 +65,10 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code：https://github.com/dvlab-research/SCGAN
 ## Detail Me More: Improving GAN's Photo-Realism of Complex Scenes
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Gadde_Detail_Me_More_Improving_GANs_Photo-Realism_of_Complex_Scenes_ICCV_2021_paper.html
+## De-Rendering Stylized Texts
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Shimoda_De-Rendering_Stylized_Texts_ICCV_2021_paper.html
+- Code：https://github.com/dvlab-research/SCGAN
+
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑（Image Manipulation/Image Editing）
@@ -110,6 +114,8 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer
 - Paper：https://arxiv.org/abs/2108.03647
 - Code：https://github.com/Huage001/AdaAttN
+## Diverse Image Style Transfer via Invertible Cross-Space Mapping
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Diverse_Image_Style_Transfer_via_Invertible_Cross-Space_Mapping_ICCV_2021_paper.html
 
 <a name="4.图像翻译"></a>
 # 4.图像翻译（Image to Image Translation）
@@ -172,6 +178,9 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code：https://github.com/cszn/BSRGAN
 ## Event Stream Super-Resolution via Spatiotemporal Constraint Learning
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.html
+## Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.html
+
 
 <a name="7.图像去雨"></a>
 # 7.图像去雨（Image Deraining）
@@ -238,7 +247,6 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code： https://github.com/JunHeum/ABME
 ## Training Weakly Supervised Video Frame Interpolation With Events
 - Paper： https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.html
-- Code： https://github.com/JunHeum/ABME
 
 
 <a name="15.视频压缩"></a>
