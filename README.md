@@ -63,6 +63,8 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Image Synthesis via Semantic Composition
 - Paper：https://shepnerd.github.io/scg/resources/01145.pdf
 - Code：https://github.com/dvlab-research/SCGAN
+## Detail Me More: Improving GAN's Photo-Realism of Complex Scenes
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Gadde_Detail_Me_More_Improving_GANs_Photo-Realism_of_Complex_Scenes_ICCV_2021_paper.html
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑（Image Manipulation/Image Editing）
@@ -93,6 +95,9 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code：https://github.com/yumingj/Talk-to-Edit
 ## Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing
 - Paper：https://cuiaiyu.github.io/dressing-in-order/Cui_Dressing_in_Order.pdf
+- Code：https://github.com/cuiaiyu/dressing-in-order
+## GAN-Control: Explicitly Controllable GANs
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Shoshan_GAN-Control_Explicitly_Controllable_GANs_ICCV_2021_paper.html
 - Code：https://github.com/cuiaiyu/dressing-in-order
 
 <a name="3.图像风格迁移"></a>
@@ -132,6 +137,9 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction
 - Paper：https://arxiv.org/abs/2011.12836
 - Code：https://github.com/zengxianyu/crfill
+## FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_FuseFormer_Fusing_Fine-Grained_Information_in_Transformers_for_Video_Inpainting_ICCV_2021_paper.html
+- Code：https://github.com/ruiliu-ai/FuseFormer
 
 
 <a name="6.图像超分辨率"></a>
@@ -155,11 +163,24 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Pesavento_Attention-Based_Multi-Reference_Learning_for_Image_Super-Resolution_ICCV_2021_paper.pdf
 ## Fourier Space Losses for Efficient Perceptual Image Super-Resolution
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Fuoli_Fourier_Space_Losses_for_Efficient_Perceptual_Image_Super-Resolution_ICCV_2021_paper.html
-- 
+## COMISR: Compression-Informed Video Super-Resolution
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_COMISR_Compression-Informed_Video_Super-Resolution_ICCV_2021_paper.html
+- Code：https://github.com/google-research/google-research/tree/master/comisr
+- 针对压缩后的视频超分
+## Designing a Practical Degradation Model for Deep Blind Image Super-Resolutio
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Designing_a_Practical_Degradation_Model_for_Deep_Blind_Image_Super-Resolution_ICCV_2021_paper.html
+- Code：https://github.com/cszn/BSRGAN
+## Event Stream Super-Resolution via Spatiotemporal Constraint Learning
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.html
+
 <a name="7.图像去雨"></a>
 # 7.图像去雨（Image Deraining）
 ## Structure-Preserving Deraining with Residue Channel Prior Guidance
 - Code：https://github.com/Joyies/SPDNet
+## Improving De-Raining Generalization via Neural Reorganization
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.html
+- Code：https://github.com/cszn/BSRGAN
+
 
 <a name="8.图像去雾"></a>
 # 8.图像去雾（Image Dehazing）
