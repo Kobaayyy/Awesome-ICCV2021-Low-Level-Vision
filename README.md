@@ -133,6 +133,7 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Paper：https://arxiv.org/abs/2011.12836
 - Code：https://github.com/zengxianyu/crfill
 
+
 <a name="6.图像超分辨率"></a>
 # 6.图像超分辨率（Image Super-Resolution）
 ## Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution
@@ -152,7 +153,9 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Paper：https://arxiv.org/abs/2104.06191
 ## Attention-Based Multi-Reference Learning for Image Super-Resolution
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Pesavento_Attention-Based_Multi-Reference_Learning_for_Image_Super-Resolution_ICCV_2021_paper.pdf
-
+## Fourier Space Losses for Efficient Perceptual Image Super-Resolution
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Fuoli_Fourier_Space_Losses_for_Efficient_Perceptual_Image_Super-Resolution_ICCV_2021_paper.html
+- 
 <a name="7.图像去雨"></a>
 # 7.图像去雨（Image Deraining）
 ## Structure-Preserving Deraining with Residue Channel Prior Guidance
@@ -170,6 +173,8 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code：https://github.com/chosj95/MIMO-UNet
 ## Bringing Events into Video Deblurring with Non consecutively Blurry Frames 
 - Code：https://github.com/shangwei5/D2Net
+## Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Son_Single_Image_Defocus_Deblurring_Using_Kernel-Sharing_Parallel_Atrous_Convolutions_ICCV_2021_paper.html
 
 <a name="10.去噪"></a>
 # 10.去噪（Denoising）
@@ -191,6 +196,11 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code：https://github.com/IDKiro/StarEnhancer
 ## Real-time Image Enhancer via Learnable Spatial-aware 3D Lookup Tables
 - Paper：https://arxiv.org/abs/2108.08697
+## Representative Color Transform for Image Enhancement
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Representative_Color_Transform_for_Image_Enhancement_ICCV_2021_paper.html
+## Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_Adaptive_Unfolding_Total_Variation_Network_for_Low-Light_Image_Enhancement_ICCV_2021_paper.html
+- Code：https://github.com/YU-Zhiyang/WEVI
 
 <a name="13.图像质量评价"></a>
 # 13.图像质量评价（Image Quality Assessment）
@@ -205,6 +215,10 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Asymmetric Bilateral Motion Estimation for Video Frame Interpolation
 - Paper： https://arxiv.org/abs/2108.06815
 - Code： https://github.com/JunHeum/ABME
+## Training Weakly Supervised Video Frame Interpolation With Events
+- Paper： https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.html
+- Code： https://github.com/JunHeum/ABME
+
 
 <a name="15.视频压缩"></a>
 # 15.视频/图像压缩（Video/Image Compression）
@@ -225,7 +239,6 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - 频域损失，补充空域损失的不足
 ## ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss
 - Code：https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet
-
 ## IICNet: A Generic Framework for Reversible Image Conversion
 - Code：https://github.com/felixcheng97/IICNet
 ## Self-Conditioned Probabilistic Learning of Video Rescaling
@@ -244,4 +257,6 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Towards Flexible Blind JPEG Artifacts Removal 
 - Paper：https://github.com/jiaxi-jiang/FBCNN/releases/download/v1.0/FBCNN_ICCV2021.pdf
 - Code：https://github.com/jiaxi-jiang/FBCNN
-
+### Location-Aware Single Image Reflection Removal
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Dong_Location-Aware_Single_Image_Reflection_Removal_ICCV_2021_paper.html
+- Code：https://github.com/zdlarr/Location-aware-SIRR
