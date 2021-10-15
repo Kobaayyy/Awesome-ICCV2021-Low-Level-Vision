@@ -103,6 +103,10 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## GAN-Control: Explicitly Controllable GANs
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Shoshan_GAN-Control_Explicitly_Controllable_GANs_ICCV_2021_paper.html
 - Code：https://github.com/cuiaiyu/dressing-in-order
+## Explaining in Style: Training a GAN To Explain a Classifier in StyleSpace
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Lang_Explaining_in_Style_Training_a_GAN_To_Explain_a_Classifier_ICCV_2021_paper.html
+- Code：https://github.com/google/explaining-in-style
+
 
 <a name="3.图像风格迁移"></a>
 # 3.图像风格迁移（Image Transfer）
@@ -116,6 +120,8 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Code：https://github.com/Huage001/AdaAttN
 ## Diverse Image Style Transfer via Invertible Cross-Space Mapping
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Diverse_Image_Style_Transfer_via_Invertible_Cross-Space_Mapping_ICCV_2021_paper.html
+## StyleFormer: Real-Time Arbitrary Style Transfer via Parametric Style Composition
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Wu_StyleFormer_Real-Time_Arbitrary_Style_Transfer_via_Parametric_Style_Composition_ICCV_2021_paper.html
 
 <a name="4.图像翻译"></a>
 # 4.图像翻译（Image to Image Translation）
@@ -125,7 +131,9 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Scaling-up Disentanglement for Image Translation
 - Paper：https://arxiv.org/abs/2103.14017
 - Code：https://github.com/avivga/overlord
-
+## Unaligned Image-to-Image Translation by Learning to Reweight
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Xie_Unaligned_Image-to-Image_Translation_by_Learning_to_Reweight_ICCV_2021_paper.html
+- Code：https://github.com/Mid-Push/IrwGAN
 <a name="5.图像修复"></a>
 # 5.图像修复（Image Inpaiting/Image Completion）
 ## Implicit Internal Video Inpainting
@@ -189,7 +197,9 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Improving De-Raining Generalization via Neural Reorganization
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.html
 - Code：https://github.com/cszn/BSRGAN
-
+## Unpaired Learning for Deep Image Deraining With Rain Direction Regularizer
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.html
+- Code：https://github.com/cszn/BSRGAN
 
 <a name="8.图像去雾"></a>
 # 8.图像去雾（Image Dehazing）
@@ -210,6 +220,10 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 # 10.去噪（Denoising）
 ## C2N: Practical Generative Noise Modeling for Real-World Denoising
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.pdf
+## Self-Supervised Image Prior Learning With GMM From a Single Noisy Image
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Self-Supervised_Image_Prior_Learning_With_GMM_From_a_Single_Noisy_ICCV_2021_paper.html
+- Code：https://github.com/HUST-Tan/SS-GMM
+
 
 <a name="11.图像恢复"></a>
 # 11.图像恢复（Image Restoration）
@@ -289,3 +303,5 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ### Location-Aware Single Image Reflection Removal
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Dong_Location-Aware_Single_Image_Reflection_Removal_ICCV_2021_paper.html
 - Code：https://github.com/zdlarr/Location-aware-SIRR
+## Learning To Remove Refractive Distortions From Underwater Images
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Thapa_Learning_To_Remove_Refractive_Distortions_From_Underwater_Images_ICCV_2021_paper.html
