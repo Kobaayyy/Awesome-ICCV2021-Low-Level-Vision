@@ -21,8 +21,8 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - [6.图像超分辨率（Image Super-Resolution）](#6.图像超分辨率)
 - [7.图像去雨（Image Deraining）](#7.图像去雨)
 - [8.图像去雾（Image Dehazing）](#8.图像去雾)
-- [9.去模糊（Deblurring）](#9.去模糊)
-- [10.去噪（Denoising）](#10.去噪)
+- [9.图像去模糊（Image Deblurring）](#9.去模糊)
+- [10.图像去噪（Image Denoising）](#10.去噪)
 - [11.图像恢复（Image Restoration）](#11.图像恢复)
 - [12.图像增强（Image Enhancement）](#12.图像增强)
 - [13.图像质量评价（Image Quality Assessment）](#13.图像质量评价)
@@ -205,7 +205,7 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 # 8.图像去雾（Image Dehazing）
 
 <a name="9.去模糊"></a>
-# 9.去模糊（Deblurring）
+# 9.图像去模糊（Image Deblurring）
 ## Bringing Events into Video Deblurring with Non consecutively Blurry Frames
 - Code：https://github.com/shangwei5/D2Net
 ## Rethinking Coarse-to-Fine Approach in Single Image Deblurring
@@ -217,7 +217,7 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Son_Single_Image_Defocus_Deblurring_Using_Kernel-Sharing_Parallel_Atrous_Convolutions_ICCV_2021_paper.html
 
 <a name="10.去噪"></a>
-# 10.去噪（Denoising）
+# 10.图像去噪（Image Denoising）
 ## C2N: Practical Generative Noise Modeling for Real-World Denoising
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.pdf
 ## Self-Supervised Image Prior Learning With GMM From a Single Noisy Image
