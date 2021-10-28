@@ -308,4 +308,4 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 
 # 相关Low-Level-Vision整理
 - [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
-- [Awesome-ECCV2020-Low-Level-VisionAwesome](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
+- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
