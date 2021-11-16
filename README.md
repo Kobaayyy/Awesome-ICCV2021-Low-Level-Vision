@@ -270,6 +270,10 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform
 - Paper：https://arxiv.org/abs/2108.09551
 - Code：https://github.com/micmic123/QmapCompression
+## Efficient Video Compression via Content-Adaptive Super-Resolution
+- Paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf
+- Code：https://github.com/AdaptiveVC/SRVC
+
 
 <a name="16.其他底层视觉任务"></a>
 # 16.其他底层视觉任务（Other Low Level Vision）
