@@ -188,7 +188,9 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.html
 ## Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.html
-
+# Attention-based Multi-Reference Learning for Image Super-Resolution
+- Paper：https://arxiv.org/abs/2108.13697
+- Code：https://github.com/marcopesavento/Attention-based-Multi-Reference-Learning-for-Image-Super-Resolution
 
 <a name="7.图像去雨"></a>
 # 7.图像去雨（Image Deraining）
@@ -211,8 +213,6 @@ ICCV2021完整论文列表：[https://openaccess.thecvf.com/ICCV2021](https://op
 ## Rethinking Coarse-to-Fine Approach in Single Image Deblurring
 - Paper：https://arxiv.org/abs/2108.05054
 - Code：https://github.com/chosj95/MIMO-UNet
-## Bringing Events into Video Deblurring with Non consecutively Blurry Frames 
-- Code：https://github.com/shangwei5/D2Net
 ## Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions
 - Paper：https://openaccess.thecvf.com/content/ICCV2021/html/Son_Single_Image_Defocus_Deblurring_Using_Kernel-Sharing_Parallel_Atrous_Convolutions_ICCV_2021_paper.html
 
